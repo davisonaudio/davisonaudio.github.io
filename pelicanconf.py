@@ -2,7 +2,7 @@ AUTHOR = 'Matthew Davison'
 SITENAME = 'Matthew Davison'
 SITEURL = ""
 
-PATH = "content"
+PATH = "docs"
 
 TIMEZONE = 'Europe/London'
 

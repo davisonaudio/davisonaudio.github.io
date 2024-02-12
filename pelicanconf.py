@@ -2,7 +2,8 @@ AUTHOR = 'Matthew Davison'
 SITENAME = 'Matthew Davison'
 SITEURL = ""
 
-PATH = "docs"
+PATH = "content"
+OUTPUT_PATH = 'docs/'
 
 TIMEZONE = 'Europe/London'
 
@@ -14,6 +15,8 @@ CATEGORY_FEED_ATOM = None
 TRANSLATION_FEED_ATOM = None
 AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
+
+USE_FOLDER_AS_CATEGORY = True
 
 # Blogroll
 LINKS = (

@@ -11,18 +11,20 @@ redirect_from:
 
 Education
 ======
-* PhD in Design Engineering, Imperial College London, 2026 (expected)
-* BSc in Music and Sound Recording (Tonmeister), University of Surrey, 2021
+* PhD in Design Engineering, Imperial College London, UK, 2026 (expected)
+* BSc in Music and Sound Recording (Tonmeister), University of Surrey, UK, 2021
 
 
 Work
 ======
-* Embedded Software Engineer, DiGiCo UK Ltd., 07/2021 - 08/2023
+* Graduate Teaching Assistant, Imperial College London, UK,  10/2023 - present
+
+* Embedded Software Engineer, DiGiCo UK Ltd., UK, 07/2021 - 08/2023
   * 
   * 
   * 
 
-* Software Test Engineer, DiGiCo UK Ltd., 07/2019 - 07/2020
+* Software Test Engineer, DiGiCo UK Ltd., UK, 07/2019 - 07/2020
   * 
 
 
@@ -48,12 +50,3 @@ Talks
     {% include archive-single-talk-cv.html  %}
   {% endfor %}</ul>
   
-Teaching
-======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams

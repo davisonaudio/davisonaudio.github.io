@@ -21,8 +21,8 @@ repository               : "davisonaudio/davisonaudio.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
+  avatar           : "matt_davison_headshot.jpg"
+  name             : "Matt Davison"
   pronouns         : "he/him"
   bio              : "Haptic Feedback, Instrument Design Researcher"
   location         : "London, UK"
@@ -200,7 +200,7 @@ kramdown:
 # Collections
 collections:
   teaching:
-    output: true
+    output: false
     permalink: /:collection/:path/
   publications:
     output: true

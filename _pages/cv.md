@@ -11,26 +11,21 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* PhD in Design Engineering, Imperial College London, 2026 (expected)
+* BSc in Music and Sound Recording (Tonmeister), University of Surrey, 2021
 
-Work experience
+
+Work
 ======
-* Spring 2024: Academic Pages Collaborator
-  * Github University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Embedded Software Engineer, DiGiCo UK Ltd., 07/2021 - 08/2023
+  * 
+  * 
+  * 
 
-* Fall 2015: Research Assistant
-  * Github University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
+* Software Test Engineer, DiGiCo UK Ltd., 07/2019 - 07/2020
+  * 
 
-* Summer 2015: Research Assistant
-  * Github University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+
   
 Skills
 ======

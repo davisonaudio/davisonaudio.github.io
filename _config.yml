@@ -24,7 +24,7 @@ author:
   avatar           : "matt_davison_headshot.jpg"
   name             : "Matt Davison"
   pronouns         : "he/him"
-  bio              : "Haptic Feedback, Instrument Design Researcher"
+  bio              : "Haptic Feedback and Instrument Design Researcher"
   location         : "London, UK"
   employer         : "Imperial College London"
   uri              : # URL
@@ -36,7 +36,7 @@ author:
   impactstory      : # URL
   orcid            : #
   pubmed           : #
-  researchgate     : # URL
+  researchgate     : https://www.researchgate.net/profile/Matthew-Davison-11
 
   # Repositories and software development
   bitbucket        : # Username - Update with your username on the site
@@ -47,7 +47,7 @@ author:
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
-  bluesky          : # Replace this with you Bluesky username
+  bluesky          : mdavison.bluesky.social
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -56,7 +56,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : # Username
+  linkedin         : https://www.linkedin.com/in/matt-davison-14a786119/
   mastodon         : https://mastodon.social/@mattdavison
   medium           : # URL
   pinterest        : # Username
@@ -64,12 +64,12 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : "mattdavison99"
+  twitter          : # Username
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : davisonaudio
   zhihu            : # URL
 
 

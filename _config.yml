@@ -239,6 +239,15 @@ defaults:
       author_profile: true
       share: true
       comments: true
+  # _workshops_wip_demo
+  - scope:
+      path: ""
+      type: workshops_wip_demo
+    values:
+      layout: single
+      author_profile: true
+      share: true
+      comments: true
   # _portfolio
   - scope:
       path: ""

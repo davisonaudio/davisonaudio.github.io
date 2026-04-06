@@ -202,6 +202,9 @@ collections:
   publications:
     output: true
     permalink: /:collection/:path/
+  workshops_wip_demo:
+    output: true
+    permalink: /:collection/:path/
   portfolio:
     output: true
     permalink: /:collection/:path/

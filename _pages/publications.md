@@ -11,6 +11,16 @@ author_profile: true
 
 {% include base_path %}
 
+Journal and Conference Papers
+======
+
+{% for post in site.publications reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+Workshop Papers and Demos
+======
+
 {% for post in site.workshops_wip_demo reversed %}
   {% include archive-single.html %}
 {% endfor %}

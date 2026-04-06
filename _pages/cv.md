@@ -34,4 +34,10 @@ Publications
     {% include archive-single-cv.html %}
   {% endfor %}</ul>
 
+Workshop Papers and Demos
+======
+
+{% for post in site.workshops_wip_demo reversed %}
+  {% include archive-single.html %}
+{% endfor %}
   

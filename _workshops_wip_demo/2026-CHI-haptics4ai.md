@@ -5,7 +5,7 @@ permalink: /workshops_wip_demo/2026-CHI-haptics4ai
 excerpt: '**Matthew Davison**'
 date: 2026-04-16
 venue: 'AI for Haptics and Haptics  for AI: Challenges}} and Opportunities Workshop at the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26)'
-paperurl: #''
+paperurl: '/files/davison_ai_haptics_chi26.pdf'
 citation: 'Davison, Matthew. ‘Haptics for Bidirectional Interaction with AI Musical Mappings’. AI for Haptics and Haptics  for AI: Challenges and Opportunities Workshop at the 2026 CHI Conference on Human Factors in Computing Systems (CHI ’26) (Barcelona, Spain), April 2026.'
 
 ---

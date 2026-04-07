@@ -15,14 +15,12 @@ author_profile: true
 
 Journal and Conference Papers
 ======
-
 {% for post in site.publications reversed %}
   {% include archive-single.html %}
 {% endfor %}
 
 Workshop Papers and Demos
 ======
-
 {% for post in site.workshops_wip_demo reversed %}
   {% include archive-single.html %}
 {% endfor %}

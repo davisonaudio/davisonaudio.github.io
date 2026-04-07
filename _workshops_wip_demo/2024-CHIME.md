@@ -4,7 +4,7 @@ collection: workshops_wip_demo
 permalink: /workshops_wip_demo/2024-CHIME
 excerpt: '**Matthew Davison**, Anna Silver, Andrew McPherson'
 date: 2024-12-02
-venue: 'Eurohaptics Conference'
+venue: 'CHIME Annual Conference'
 paperurl: '/files/davison_silver_mcpherson_chime2024.pdf'
 citation: 'Davison, Matthew, Anna Silver, and Andrew P. McPherson. ‘Self-Sensing Transducers for Tactile Interaction with Digital Musical Instruments’. CHIME Annual Conference 2024 (Milton Keynes, UK), December 2024.'
 

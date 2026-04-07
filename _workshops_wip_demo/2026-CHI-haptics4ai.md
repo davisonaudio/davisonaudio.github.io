@@ -12,6 +12,8 @@ citation: 'Davison, Matthew. ‘Haptics for Bidirectional Interaction with AI Mu
 
 This position paper is for the [AI for Haptics and Haptics for AI: Challenges and Opportunities](https://derikon.github.io/HapticsAI_Workshop/) workshop at CHI 2026 in Barcelona, held on Thursday 16/04/2026.
 
+Find out more about my work at CHI 2026 in [this blog post](/posts/2026/04/chi2026/).
+
 
 # Abstract:
 The unidirectional process of mapping gesture to synthesis parameter in digital musical instruments has remained prevalent, even in  more recent designs that incorporate machine learning models to performing parameter mapping and synthesis in response gestural  input. Haptic feedback provides the opportunity to implement bidirectional interaction through gestures – possibly enabling the  exploration of AI mappings that subvert the conventional unidirectional flow. Additionally, machine learning provides the opportunity  to implement closely-coupled haptic sensing and actuation systems for use with musical interaction, without the requirement to  model complex system dynamics.

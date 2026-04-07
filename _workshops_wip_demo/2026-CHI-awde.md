@@ -10,7 +10,9 @@ citation: 'Davison, Matthew. ‘Development of Open-Source Hardware for Digital 
 
 ---
 
-This position paper is for the [Are We Doing Enough? Sharing Design and Manufacturing Expertise Across Open Source Hardware Communities](https://are-we-doing-enough-workshop.github.io/) workshop at CHI 2026 in Barcelona, held on Tuesday 14/04/2026.
+This position paper is for the [Are We Doing Enough? Sharing Design and Manufacturing Expertise Across Open Source Hardware Communities](https://are-we-doing-enough-workshop.github.io/) workshop at CHI 2026 in Barcelona, held on Tuesday 14/04/2026. 
+
+Find out more about my work at CHI 2026 in [this blog post](/posts/2026/04/chi2026/).
 
 
 # Abstract:

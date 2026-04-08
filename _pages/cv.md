@@ -13,6 +13,8 @@ Education
 ======
 * PhD in Design Engineering, Imperial College London, UK, 2026 (expected)
 * BSc in Music and Sound Recording (Tonmeister), University of Surrey, UK, 2021
+  * Modules including: Audio Signal Processing, Audio Programming (C++), Audio Engineering, Recording Techniques, Electronics, Acoustics
+  * Recording of popular and classical music including studio sessions and on location (e.g. Cambridge University Windo Orchestra, Oxford University Sinfonietta, University of Surrey Gospel Choir)
 
 
 Work

@@ -6,7 +6,7 @@ excerpt: '**Matthew Davison**, Andrew McPherson'
 date: 2024-06-30
 venue: 'Eurohaptics Conference'
 paperurl: '/files/davison_mcpherson_eurohaptics2024.pdf'
-citation: 'Davison, Matthew, and Andrew P. McPherson. ‘A Self-Sensing Vibrotactile Transducer for Bidirectional Tactile Interaction’. Paper presented at Eurohaptics. June 2024. https://doi.org/10.5281/zenodo.12549408.'
+citation: 'Davison, Matthew, and Andrew P. McPherson. ‘A Self-Sensing Vibrotactile Transducer for Bidirectional Tactile Interaction’. Work-in-progress paper and interactive demo presented at Eurohaptics. June 2024. https://doi.org/10.5281/zenodo.12549408.'
 
 ---
 

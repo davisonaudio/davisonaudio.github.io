@@ -6,7 +6,7 @@ excerpt: '**Matthew Davison**, Anna Silver, Andrew McPherson'
 date: 2024-12-02
 venue: 'CHIME Annual Conference'
 paperurl: '/files/davison_silver_mcpherson_chime2024.pdf'
-citation: 'Davison, Matthew, Anna Silver, and Andrew P. McPherson. ‘Self-Sensing Transducers for Tactile Interaction with Digital Musical Instruments’. CHIME Annual Conference 2024 (Milton Keynes, UK), December 2024.'
+citation: 'Davison, Matthew, Anna Silver, and Andrew P. McPherson. ‘Self-Sensing Transducers for Tactile Interaction with Digital Musical Instruments’. Demo presented at CHIME Annual Conference 2024 (Milton Keynes, UK), December 2024.'
 
 ---
 

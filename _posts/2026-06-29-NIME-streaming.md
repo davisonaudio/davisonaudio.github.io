@@ -35,14 +35,15 @@ We used a [Blackmagic ATEM Mini Pro](https://www.blackmagicdesign.com/uk/product
 
 The [Sennheiser Speechline](https://www.sennheiser.com/en-gb/product-families/speechline-wireless) microphones installed in the room went to the PA, we took splits of the outputs of these receivers into an audio interface.
 
-We used a USB webcam to cover the presenter.
+We used a USB webcam to cover the presenter. See all this in the diagram below, hastily drawn in powerpoint (sorry).
+
+![](/images/nime_hybrid_papers_setup.png)
 
 
 In OBS, we took in the audio from the audio interface (the wireless mics) as well as the audio from the vision mixer feed (the HDMI and 3.5mm jack audio). For video, we took in the vision mixer feed (containing either the presenter HDMI feed or streaming laptop HDMI feed for Zoom and video playback).
 
 To have remote presentations over Zoom, we needed a way for them to hear the wireless mics without hearing an echo of themselves (effectively provide a mix-minus feed). This is where having the audio interface for mics and vision mixer for presentation audio came in handy - we could use the audio interface as the input to Zoom and the HDMI as the output for Zoom audio. This meant that the Zoom presenter didn't hear themselves, but their audio still went to the room and to the stream (via the vision mixer).
 
-All this is probably a little clearer in the diagram below, hastily drawn in powerpoint (sorry).
 
 
 
@@ -50,7 +51,9 @@ All this is probably a little clearer in the diagram below, hastily drawn in pow
 Evening Concerts
 ======
 
-The evening concerts were in two different venues within Rich Mix. As there was generally only 10-20 minutes break to move between the venues (with one on the 4th floor and the other on the ground floor), we effectively required two separate streaming rigs again. 
+The evening concerts were in two different venues within Rich Mix. As there was generally only 10-20 minutes break to move between the venues (with one on the 4th floor and the other on the ground floor), we effectively required two separate streaming rigs again. Again, a rough diagram of the setup is shown below:
+
+![](/images/nime_hybrid_concerts_setup.png)
 
 For audio, the Rich Mix technicians kindly provided us a stereo feed of the front-of-house mix in each room and we also had a Zoom H1N mounted to a camera in the back of each room (using it as a USB audio interface to function as a stereo room mic).
 

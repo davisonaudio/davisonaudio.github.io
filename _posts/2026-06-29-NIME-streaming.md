@@ -10,7 +10,7 @@ tags:
 
 This June, [our lab](https://instrumentslab.org/) co-hosted the [New Interfaces for Musical Expression](https://nime2026.org/) conference at Loughborough University London.
 
-Jordie Shier and I were the Hybid Chairs for this conference, livestreaming paper presentation sessions (dual tracks) from 9am to 5pm each day and concerts from 7pm - 11pm across 2 venue spaces over at [Rich Mix](https://richmix.org.uk/).
+[Jordie Shier](https://jordieshier.com/) and I were the Hybid Chairs for this conference, livestreaming paper presentation sessions (dual tracks) from 9am to 5pm each day and concerts from 7pm - 11pm across 2 venue spaces over at [Rich Mix](https://richmix.org.uk/).
 
 Below is an overview of the streaming setups that we used. This shouldn't necessarily be seen as a perfect guide to livestreaming a conference (there's definitely room for improvement!) but in the preparation for this conference I found other guides (such as [Charles Martin's Hybrid Conference setup](https://charlesmartin.au/blog/2023/07/20/hybrid-conference)) very useful to reference so hopefully this one can provide some useful information too.
 
@@ -31,7 +31,7 @@ Each setup was similar (though with a different model of vision mixer in each ro
 
 The rooms had HDMI inputs for the projector but no analog audio inputs, meaning that we needed to use the vision mixers to embed the analogue audio into the HDMI feed. If we hadn't needed analogue audio input, a cheaper option may have been an HDMI capture card with an HDMI through to feed the projector.
 
-We used a [Blackmagic ATEM Mini Pro](https://www.blackmagicdesign.com/uk/products/atemmini) vision mixer in one room and a Roland V-8HD vision mixer (with a [Rode HDMI Capture Card](https://rode.com/en-gb/products/hdmi-usb-c-converter)) in the other. With each vision mixer, HDMI input 1 was the presenter's laptop and HDMI 2 was the streaming laptop. Both had a 3.5mm stereo line in running into the analog audio input.
+Jordie and I came up with the following setup after some trial and error and test streams. We used a [Blackmagic ATEM Mini Pro](https://www.blackmagicdesign.com/uk/products/atemmini) vision mixer in one room and a Roland V-8HD vision mixer (with a [Rode HDMI Capture Card](https://rode.com/en-gb/products/hdmi-usb-c-converter)) in the other. With each vision mixer, HDMI input 1 was the presenter's laptop and HDMI 2 was the streaming laptop. Both had a 3.5mm stereo line in running into the analog audio input.
 
 The [Sennheiser Speechline](https://www.sennheiser.com/en-gb/product-families/speechline-wireless) microphones installed in the room went to the PA, we took splits of the outputs of these receivers into an audio interface.
 
@@ -64,5 +64,5 @@ Finally, though we didn't take the feed into the streaming computer, we gave the
 We had a laptop at the back of each room, with the various video and audio feeds for each room going into that laptop, running OBS. We wanted one continuous stream for the entire evening which presented a problem when the stream between laptops. Luckily, Jordie discovered that YouTube primary and backup stream URLs can be used for this purpose. We started one laptop streaming to the primary server then, when we switched rooms, we would start streaming in the other room to the backup server and stop the stream in the first room. This ensured that the stream remained uninterrupted.
 
 
-Massive thanks go to the AV staff at Loughborough University London and the technicians at Rich Mix for being so helpful - they made our lives much easier over the course of the week! Also big thanks to our wonderful colleagues June Kuhn and Adam Schmidt for assisting with camera operating at Rich Mix!
+Massive thanks go to the AV staff at Loughborough University London and the technicians at Rich Mix for being so helpful - they made our lives much easier over the course of the week! Also big thanks to our wonderful colleagues June Kuhn and Adam Schmidt for assisting with camera operating at Rich Mix! Finally, thanks to Jordie for working together on the streaming (he also handled the setting up of the conference Discord - which he did a much better job on than I ever would have!).
 

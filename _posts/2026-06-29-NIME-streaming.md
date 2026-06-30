@@ -12,7 +12,7 @@ This June, [our lab](https://instrumentslab.org/) co-hosted the [New Interfaces 
 
 Jordie Shier and I were the Hybid Chairs for this conference, livestreaming paper presentation sessions (dual tracks) from 9am to 5pm each day and concerts from 7pm - 11pm across 2 venue spaces over at [Rich Mix](https://richmix.org.uk/).
 
-Below is an overview of the streaming setups that we used. This shouldn't necessarily be seen as a perfect guide to livestreaming a conference (there's definitely room for improvement!) but in the preparation for this conference I found other guides (such as [Charles Martin's Hybrid Conference setup](https://charlesmartin.au/blog/2023/07/20/hybrid-conference)) very useful to reference.
+Below is an overview of the streaming setups that we used. This shouldn't necessarily be seen as a perfect guide to livestreaming a conference (there's definitely room for improvement!) but in the preparation for this conference I found other guides (such as [Charles Martin's Hybrid Conference setup](https://charlesmartin.au/blog/2023/07/20/hybrid-conference)) very useful to reference so hopefully this one can provide some useful information too.
 
 For all of the streaming, we used [OBS](https://obsproject.com/) to stream to YouTube.
 
@@ -23,7 +23,7 @@ This was the first time that NIME was a dual track conference, meaning that we n
 Each setup was similar (though with a different model of vision mixer in each room due to what we had available). In each room, we had the following requirements:
 
 - HDMI from presenter's laptop going to projector and livestream
-- Audio from either HDMI or 3.5mm analogue stereo jack going to room speaker and livestream
+- Audio from either HDMI or 3.5mm analogue stereo jack going to room speakers and livestream
 - Camera showing presenter
 - Wireless microphones going to room and livestream
 - Remote presenters able to present over Zoom (and hear questions from the wireless mics in the room)
@@ -62,4 +62,7 @@ For video, we borrowed two JVC GY-HM600 video cameras (one for each room). These
 Finally, though we didn't take the feed into the streaming computer, we gave the stage managers a GoPro mounted on a microphone stand to use in each room. The HDMI output of this was displayed on the projector for some of the performances - which hopefully gave the audience a better view of some of the more subtle interactions onstage.
 
 We had a laptop at the back of each room, with the various video and audio feeds for each room going into that laptop, running OBS. We wanted one continuous stream for the entire evening which presented a problem when the stream between laptops. Luckily, Jordie discovered that YouTube primary and backup stream URLs can be used for this purpose. We started one laptop streaming to the primary server then, when we switched rooms, we would start streaming in the other room to the backup server and stop the stream in the first room. This ensured that the stream remained uninterrupted.
+
+
+Massive thanks go to the AV staff at Loughborough University London and the technicians at Rich Mix for being so helpful - they made our lives much easier over the course of the week! Also big thanks to our wonderful colleagues June Kuhn and Adam Schmidt for assisting with camera operating at Rich Mix!
 

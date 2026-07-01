@@ -63,6 +63,27 @@ Finally, though we didn't take the feed into the streaming computer, we gave the
 
 We had a laptop at the back of each room, with the various video and audio feeds for each room going into that laptop, running OBS. We wanted one continuous stream for the entire evening which presented a problem when the stream between laptops. Luckily, Jordie discovered that YouTube primary and backup stream URLs can be used for this purpose. We started one laptop streaming to the primary server then, when we switched rooms, we would start streaming in the other room to the backup server and stop the stream in the first room. This ensured that the stream remained uninterrupted.
 
+Cost
+======
+We were lucky in that we had a fair amount of AV equipment in our lab already, and we were able to borrow the rest from other institutions for the week. The only bits we had to purchase specifically for this were cables, adapters, and the 2x Rode HDMI capture cards (about £25 each).
 
+Obviously this would've been more expensive if we hadn't been in the fortunate position of having lots of the equipment already. The main expenses would probably be the vision mixers and cameras able to output a clean HDMI feed (the JVC GY-HM600s and GoPros, in our case).
+
+Reflections & Improvements
+======
+Overall, the streaming setups were fairly successful! We had a few issues in one of the rooms (largely down to a dodgy HDMI cable - thanks to Ian Clester for loaning a replacement!) and some wireless mic issues at the start (fixed by a reset of the microphone system).
+
+A spare HDMI cable running from the presenter podium to the vision mixer and a backup camera in the room somewhere that had a view of the projector would have both been handy for when things did go wrong. After swapping out that cable though, the setup worked pretty much flawlessly for the rest of the conference!
+
+The other issue we occasionally had was that some laptops didn't seem to like outputting audio to the Blackmagic ATEM Mini Pro (it would cause any audio playback to freeze and other weird symptoms). In these cases, we were glad that we had offered the option of audio via a 3.5mm jack as that proved to be a useful backup too!
+
+It would have been nice to expand the setup for the evening concerts, though the turnaround time between finishing the daytime streaming at 5pm and starting the evening streaming at 7pm (with a cycle across to the venue in that time too) would've made a more complex setup difficult anyway. In particular these additions would've made life easier and make for a slightly better stream output:
+
+- An external screen to show the OBS multiview window (this would've made switching camera shots easier)
+- A larger screen mounted to the JVC GY-HM600 cameras (getting the focus right was difficult on the small built-in screen). Jordie sometimes used his phone to preview the OBS output for this, which helped!
+- More camera angles (I considered loading the [Magic Lantern](https://www.magiclantern.fm/) firmware onto an old Canon DSLR I have to get a clean HDMI output and use that, but I ran out of time before the conference).
+
+A Quick Thanks
+======
 Massive thanks go to the AV staff at Loughborough University London and the technicians at Rich Mix for being so helpful - they made our lives much easier over the course of the week! Also big thanks to our wonderful colleagues June Kuhn and Adam Schmidt for assisting with camera operating at Rich Mix! Finally, thanks to Jordie for working together on the streaming (he also handled the setting up of the conference Discord - which he did a much better job on than I ever would have!).
 

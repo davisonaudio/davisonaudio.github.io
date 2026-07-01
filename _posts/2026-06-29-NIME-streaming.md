@@ -63,6 +63,10 @@ Finally, though we didn't take the feed into the streaming computer, we gave the
 
 We had a laptop at the back of each room, with the various video and audio feeds for each room going into that laptop, running OBS. We wanted one continuous stream for the entire evening which presented a problem when the stream between laptops. Luckily, Jordie discovered that YouTube primary and backup stream URLs can be used for this purpose. We started one laptop streaming to the primary server then, when we switched rooms, we would start streaming in the other room to the backup server and stop the stream in the first room. This ensured that the stream remained uninterrupted.
 
+
+The image below shows the setup we had for one of the spaces, with the JVC camera on a tripod on top of a table and the laptop running OBS next to it.
+![](/images/rich_mix_setup.png)
+
 Cost
 ======
 We were lucky in that we had a fair amount of AV equipment in our lab already, and we were able to borrow the rest from other institutions for the week. The only bits we had to purchase specifically for this were cables, adapters, and the 2x Rode HDMI capture cards (about £25 each).
@@ -85,5 +89,9 @@ It would have been nice to expand the setup for the evening concerts, though the
 
 A Quick Thanks
 ======
-Massive thanks go to the AV staff at Loughborough University London and the technicians at Rich Mix for being so helpful - they made our lives much easier over the course of the week! Also big thanks to our wonderful colleagues June Kuhn and Adam Schmidt for assisting with camera operating at Rich Mix! Finally, thanks to Jordie for working together on the streaming (he also handled the setting up of the conference Discord - which he did a much better job on than I ever would have!).
+
+Lots of thank yous go out to all the wonderful people who helped us out with the streaming (and other who did huge amounts of work to get the whole conference together while we were able to focus on one small aspect of it!).
+Massive thanks go to the AV staff at Loughborough University London and the technicians at Rich Mix for being so helpful - they made our lives much easier over the course of the week! Also big thanks to our wonderful colleagues June Kuhn and Adam Schmidt for assisting with camera operating at Rich Mix! 
+Thank to all the [NIME 2026 chairs](https://nime2026.org/committee/) but in particular the paper and music chairs who ensured that the paper sessions and concerts ran very smoothly - making our job of streaming them easier. Of course, thank you to Andrew and Courtney as general chairs - they put in an unbelievable amount of work to make the conference happen.
+Finally, thanks to Jordie for working together on the streaming (he also handled the setting up of the conference Discord - which he did a much better job on than I ever would have!).
 

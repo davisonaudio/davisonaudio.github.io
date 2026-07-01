@@ -4,8 +4,9 @@ date: 2026-06-29
 permalink: /posts/2026/06/nime-streaming/
 tags:
   - conference
-  - research
-  - chi
+  - recording
+  - NIME
+  - AV
 ---
 
 This June, [our lab](https://instrumentslab.org/) co-hosted the [New Interfaces for Musical Expression](https://nime2026.org/) conference at Loughborough University London.
@@ -65,7 +66,7 @@ We had a laptop at the back of each room, with the various video and audio feeds
 
 
 The image below shows the setup we had for one of the spaces, with the JVC camera on a tripod on top of a table and the laptop running OBS next to it.
-![](/images/rich_mix_setup.png)
+![](/images/rich_mix_setup.jpeg)
 
 Cost
 ======

@@ -12,3 +12,5 @@ The system enables simultaneous haptic feedback and tactile sensing with a singl
 
 It is primarily designed as an interface for audio-driven resonant synthesis models.
 
+<iframe width="560" height="315" src="https://www.youtube.com/embed/O2G3ud8Zfns?si=ff8wrL_9a3dGEPDN" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
+

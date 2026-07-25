@@ -16,7 +16,7 @@ author_profile: true
 Journal and Conference Papers
 ======
 {% for post in site.publications reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pubs.html %}
 {% endfor %}
 
 Workshop Papers and Demos

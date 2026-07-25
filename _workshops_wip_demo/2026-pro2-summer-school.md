@@ -6,7 +6,7 @@ excerpt: '**Matthew Davison**'
 date: 2026-07-14
 venue: 'Pro2 Network+ Device Prototyping Summer School'
 paperurl: '/files/davison_pro2_summer_school2026.pdf'
-citation: 'Davison, Matthew. ‘Development of Open-Source Hardware for Digital Musical Instrument Design’. Pro2 Network+ Device Prototyping Summer School (Lancaster, UK), July 2026.'
+citation: 'Davison, Matthew. ‘The HaptiCoupler: Self-Sensing Haptic Feedback for Tactile Musical Interaction’. Pro2 Network+ Device Prototyping Summer School (Lancaster, UK), July 2026.'
 
 ---
 

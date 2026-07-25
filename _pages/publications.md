@@ -22,5 +22,5 @@ Journal and Conference Papers
 Workshop Papers and Demos
 ======
 {% for post in site.workshops_wip_demo reversed %}
-  {% include archive-single.html %}
+  {% include archive-single-pubs.html %}
 {% endfor %}
